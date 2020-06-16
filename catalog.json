@@ -1,0 +1,25 @@
+{
+  "results_size": 2,
+  "results": [{
+    "id": "1",
+    "title": "Item 1",
+    "description": "Description of Item 1",
+    "image_url": "https://placehold.it/500/fcc",
+    "last_update": 1592309755,
+    "blob": {
+      "name": "Product 1",
+      "description": "This is the Product 1 description"
+    }
+  },
+  {
+    "id": "2",
+    "title": "Item 2",
+    "description": "Description of Item 2",
+    "image_url": "https://placehold.it/500/1cc",
+    "last_update": 1592309755,
+    "blob": {
+      "name": "Product 2",
+      "description": "This is the Product 2 description"
+    }
+  }]
+}
